@@ -1,0 +1,2 @@
+# Smart fridge
+Basic CRUD
